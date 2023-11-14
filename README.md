@@ -26,7 +26,7 @@ The Captivating Popover Application is designed to provide an engaging user expe
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhinendra2016/captivating-popover.git
+    git clone https://github.com/Abhinendra2016/The-Captivating-Popover-Application.git
     ```
 
 2. Open the `index.html` file in your web browser.
